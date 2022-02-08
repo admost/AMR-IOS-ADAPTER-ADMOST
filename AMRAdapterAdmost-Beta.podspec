@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'AMRAdapterAdmost'
+  s.name             = 'AMRAdapterAdmost-Beta'
   s.version          = '1.6.0.3'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
@@ -23,8 +23,8 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphoneos*]' => 'armv7 arm64',
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
-  s.dependency 'AMRSDK', '~> 1.5.6'
-  s.dependency 'AMRAdmostSDK', '~> 1.0.9'
+  s.dependency 'AMRSDK-Beta', '~> 1.5.6'
+  s.dependency 'AMRAdmostSDK-Beta', '~> 1.0.15'
   s.vendored_frameworks = 'AMRAdapterAdmost/Libs/AMRAdapterAdmost.xcframework'
   s.resource = 'AMRAdapterAdmost/Resources/AMRAdapterAdmostResources.bundle'
 end
