@@ -2,6 +2,10 @@
 
 Changelog for AMRAdapterAdmost. 
 
+## [1.6.4.0] - 2022-12-19
+### Updated
+- Sound mute option added for Rewaded videos.
+
 ## [1.6.3.0] - 2022-12-15
 ### Updated
 - Xcode 'pcm' warnings fixed.
