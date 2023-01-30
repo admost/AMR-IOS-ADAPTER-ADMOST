@@ -2,6 +2,10 @@
 
 Changelog for AMRAdapterAdmost. 
 
+## [1.6.7.0] - 2023-01-30
+### Updated
+- URL encoding support added.
+
 ## [1.6.6.0] - 2022-12-19
 ### Updated
 - Privacy icon bug fixed.
