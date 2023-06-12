@@ -2,6 +2,10 @@
 
 Changelog for AMRAdapterAdmost. 
 
+## [1.6.8.0] - 2023-06-12
+### Updated
+- JSON parse issue fixed.
+
 ## [1.6.7.0] - 2023-01-30
 ### Updated
 - URL encoding support added.
