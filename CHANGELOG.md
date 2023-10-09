@@ -2,6 +2,10 @@
 
 Changelog for AMRAdapterAdmost. 
 
+## [1.6.9.1] - 2023-09-09
+### Updated
+- Placement' network type controls bug fixed.
+
 ## [1.6.9.0] - 2023-07-14
 ### Updated
 - HTTP requests removed.
